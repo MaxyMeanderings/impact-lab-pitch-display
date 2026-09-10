@@ -26,4 +26,4 @@ State persists to localStorage on every change — a browser crash mid-timer res
 
 ## Media
 
-The `.mp4` files are stored in **Git LFS** (the countdown video alone is 153 MB — clone with `git lfs` installed). They are Anthropic-produced Claude Community event assets; keep this repo private rather than redistributing them.
+The `.mp4` files are stored in **Git LFS** (the countdown video alone is 153 MB — clone with `git lfs` installed). 
